@@ -1,0 +1,11 @@
+div {
+  font-size: 20px;
+  font-family: serif;
+  display: flex;
+}
+div p {
+  color: blue;
+  padding: 20px;
+  transform: translate(50px);
+  filter: greyscale(1);
+}/*# sourceMappingURL=style.css.map */
