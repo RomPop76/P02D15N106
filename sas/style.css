@@ -1,11 +1,14 @@
-div {
-  font-size: 20px;
-  font-family: serif;
-  display: flex;
+header {
+  height: 30vh;
+  background-color: #e4455e;
 }
-div p {
-  color: blue;
-  padding: 20px;
-  transform: translate(50px);
-  filter: greyscale(1);
+
+nav {
+  height: 30vh;
+}
+nav ul {
+  background-color: #e4455e;
+}
+nav ul li {
+  font-size: 40px;
 }/*# sourceMappingURL=style.css.map */
